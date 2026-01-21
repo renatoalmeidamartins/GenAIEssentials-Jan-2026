@@ -18,3 +18,5 @@
 - [Prompting techniques for specific LLMs](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [How knowledge bases work](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
 - [Prompting Guide - non-AWS documentation](https://www.promptingguide.ai/techniques/react)
+- [Well-architected tool](https://aws.amazon.com/blogs/aws/new-aws-well-architected-tool-review-workloads-against-best-practices/)
+- [Responsible AI principles in the GenAI lens for the Well architected tool](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html)
