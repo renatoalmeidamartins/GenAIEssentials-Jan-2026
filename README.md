@@ -6,3 +6,5 @@
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Sagemaker built-in algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [What is GPT?](https://aws.amazon.com/what-is/gpt/)
+- [Prompt engineering definition and examples - AWS-official](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Prompt engineering definitions on Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-prompt-engineering.html)
