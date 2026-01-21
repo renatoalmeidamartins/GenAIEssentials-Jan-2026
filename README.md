@@ -8,3 +8,8 @@
 - [What is GPT?](https://aws.amazon.com/what-is/gpt/)
 - [Prompt engineering definition and examples - AWS-official](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Prompt engineering definitions on Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-prompt-engineering.html)
+- [Supported foundation models in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
+- [Designing a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [Transformers in Artificial intelligence](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
+- [Attention is all you need, discussing advancements related to attention networks](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- [LLM-as-judge for evaluation model's quality](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
