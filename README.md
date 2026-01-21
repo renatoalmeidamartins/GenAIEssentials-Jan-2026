@@ -32,4 +32,5 @@
 - [Generic RAG approach](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-vector-data-stores-using-amazon-bedrock-knowledge-bases/)
 - [Supported vector databases](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/vector-db-options.html)
 - [End-to-end example using Q business](https://builder.aws.com/content/2nnqhZhqhtDfnT5DJZoAxGVPl2h/boost-confluence-search-with-amazon-q-business)
-- 
+- [S3 as a vector store](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+- [CloudWatch investigations - AIOps](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Investigations.html)
