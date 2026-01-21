@@ -26,3 +26,4 @@
 - [re:Inforce 2024 OWASP top 10 for LLM mitigations](https://www.youtube.com/watch?v=eOmgoNIC7a0)
 - [One example of a tool to jailbreak LLMs](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [Enhance Evidence Collection with AWS Config and Audit Manager](https://aws.amazon.com/blogs/mt/audit-manager-custom-config-rule-evidence-enhancement/)
+- [Security  Hub CSPM - ingests findings from a lot of AWS services and third-parties](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-concepts.html)
