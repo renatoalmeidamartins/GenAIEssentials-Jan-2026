@@ -24,3 +24,5 @@
 - [Sagemaker Clarify for evaluation, explanation and bias detection](https://docs.aws.amazon.com/sagemaker/latest/dg/model-explainability.html)
 - [OWASP Top 10 LLM](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
 - [re:Inforce 2024 OWASP top 10 for LLM mitigations](https://www.youtube.com/watch?v=eOmgoNIC7a0)
+- [One example of a tool to jailbreak LLMs](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
+- [Enhance Evidence Collection with AWS Config and Audit Manager](https://aws.amazon.com/blogs/mt/audit-manager-custom-config-rule-evidence-enhancement/)
