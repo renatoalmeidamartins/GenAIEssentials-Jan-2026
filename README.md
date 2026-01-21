@@ -20,3 +20,4 @@
 - [Prompting Guide - non-AWS documentation](https://www.promptingguide.ai/techniques/react)
 - [Well-architected tool](https://aws.amazon.com/blogs/aws/new-aws-well-architected-tool-review-workloads-against-best-practices/)
 - [Responsible AI principles in the GenAI lens for the Well architected tool](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html)
+- [AWS Well-architected tool lens catalog](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
