@@ -21,3 +21,6 @@
 - [Well-architected tool](https://aws.amazon.com/blogs/aws/new-aws-well-architected-tool-review-workloads-against-best-practices/)
 - [Responsible AI principles in the GenAI lens for the Well architected tool](https://docs.aws.amazon.com/wellarchitected/latest/generative-ai-lens/responsible-ai.html)
 - [AWS Well-architected tool lens catalog](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
+- [Sagemaker Clarify for evaluation, explanation and bias detection](https://docs.aws.amazon.com/sagemaker/latest/dg/model-explainability.html)
+- [OWASP Top 10 LLM](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
+- [re:Inforce 2024 OWASP top 10 for LLM mitigations](https://www.youtube.com/watch?v=eOmgoNIC7a0)
