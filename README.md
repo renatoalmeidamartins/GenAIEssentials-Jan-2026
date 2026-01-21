@@ -27,3 +27,4 @@
 - [One example of a tool to jailbreak LLMs](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
 - [Enhance Evidence Collection with AWS Config and Audit Manager](https://aws.amazon.com/blogs/mt/audit-manager-custom-config-rule-evidence-enhancement/)
 - [Security  Hub CSPM - ingests findings from a lot of AWS services and third-parties](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-concepts.html)
+- [AI security scoping matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/)
