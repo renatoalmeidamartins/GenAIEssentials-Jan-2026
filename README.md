@@ -15,3 +15,4 @@
 - [LLM-as-judge for evaluation model's quality](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 - [COSTAR prompting framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Prompting techniques for specific LLMs](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
