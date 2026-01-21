@@ -28,3 +28,8 @@
 - [Enhance Evidence Collection with AWS Config and Audit Manager](https://aws.amazon.com/blogs/mt/audit-manager-custom-config-rule-evidence-enhancement/)
 - [Security  Hub CSPM - ingests findings from a lot of AWS services and third-parties](https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-concepts.html)
 - [AI security scoping matrix](https://aws.amazon.com/blogs/security/securing-generative-ai-an-introduction-to-the-generative-ai-security-scoping-matrix/)
+- [Q Business](https://aws.amazon.com/q/business/pricing/)
+- [Generic RAG approach](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-vector-data-stores-using-amazon-bedrock-knowledge-bases/)
+- [Supported vector databases](https://docs.aws.amazon.com/prescriptive-guidance/latest/choosing-an-aws-vector-database-for-rag-use-cases/vector-db-options.html)
+- [End-to-end example using Q business](https://builder.aws.com/content/2nnqhZhqhtDfnT5DJZoAxGVPl2h/boost-confluence-search-with-amazon-q-business)
+- 
