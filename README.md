@@ -16,3 +16,5 @@
 - [Bedrock pricing](https://aws.amazon.com/bedrock/pricing/)
 - [COSTAR prompting framework](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [Prompting techniques for specific LLMs](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
+- [How knowledge bases work](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
+- [Prompting Guide - non-AWS documentation](https://www.promptingguide.ai/techniques/react)
